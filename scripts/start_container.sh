@@ -5,4 +5,4 @@ set -e
 docker pull sreedhar8897/simple-flask-app:latest
 
 # Run the Docker image as a container
-docker run -dit -p 5001:5004 sreedhar8897/simple-flask-app
+docker run -dit -p 5004:5004 sreedhar8897/simple-flask-app
